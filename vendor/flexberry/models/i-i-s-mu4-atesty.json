@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISmu4Atesty",
+  "modelName": "i-i-s-mu4-atesty",
+  "className": "Atesty",
+  "nameSpace": "IIS.mu4",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "AtestyE",
+      "modelName": "i-i-s-mu4-atesty",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "AtestyL",
+      "modelName": "i-i-s-mu4-atesty",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

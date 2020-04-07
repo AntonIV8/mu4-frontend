@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mu4-atest3-e",
+  "editForm": "i-i-s-mu4-atest3-e",
+  "external": false,
+  "caption": "Atest3",
+  "name": "IISmu4Atest3L",
+  "className": "Atest3L",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu4-atest3",
+      "modelProjection": "Atest3L"
+    }
+  ]
+}

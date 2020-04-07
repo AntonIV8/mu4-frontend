@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Atest3",
+  "name": "IISmu4Atest3E",
+  "className": "Atest3E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu4-atest3",
+      "modelProjection": "Atest3E"
+    }
+  ]
+}
